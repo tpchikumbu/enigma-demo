@@ -15,7 +15,7 @@ public class GameWallManager : MonoBehaviour
 {
     private GameWall playerWall;
     private GameWall computerWall;
-    private const int WIN_NUMBER = 21;
+    private const int WIN_NUMBER = 25;
     private static System.Random random = new();
     public int total = 0;
     public bool playerTurn = true;

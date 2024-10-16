@@ -48,6 +48,12 @@ namespace Platformer.Mechanics
         public bool facingLeft;
 
         private AttackScript attackScript;
+
+        [Header("Magic")]
+        [SerializeField] private ItemData fireball;
+        [SerializeField] private ItemData blackhole;
+        [SerializeField] private ItemData ice;
+
         void Awake()
         {
             health = GetComponent<Health>();
@@ -60,33 +66,15 @@ namespace Platformer.Mechanics
 
             // adding the different magics if they already exist
             if (PlayerPrefs.HasKey("fireball") && PlayerPrefs.GetInt("fireball") == 1) {
-                ItemData flameTome = new ItemData();
-                flameTome.itemName = "Tome of Ash";
-                flameTome.itemCategory = "Magic";
-                flameTome.itemSprite = Resources.Load<Sprite>("Assets/book_sprites/64x64/book_image_12.png");
-                flameTome.itemPrefab = Resources.Load<GameObject>("Assets/Prefabs/Projectiles/fireball.prefab");
-                attackScript.AddProjectile(flameTome);
-                if  (flameTome.itemPrefab != null) {
-                    print("flameTome prefab loaded");
-                }
-                else {
-                    print("flameTome prefab not loaded");
-                }
+                attackScript.AddProjectile(fireball);
             }
 
             if (PlayerPrefs.HasKey("blackhole") && PlayerPrefs.GetInt("blackhole") == 1) {
-                ItemData gravityTome = new ItemData();
-                gravityTome.itemName = "Newton's Gospel";
-                gravityTome.itemCategory = "Magic";
-                gravityTome.itemSprite = Resources.Load<Sprite>("Assets/book_sprites/64x64/book_image_10.png");
-                gravityTome.itemPrefab = Resources.Load<GameObject>("Assets/Prefabs/Projectiles/blackhole.prefab");
-                attackScript.AddProjectile(gravityTome);
-                if  (gravityTome.itemPrefab != null) {
-                    print("gravityTome prefab loaded");
-                }
-                else {
-                    print("gravityTome prefab not loaded");
-                }
+                attackScript.AddProjectile(blackhole);
+            }
+
+            if (PlayerPrefs.HasKey("ice") && PlayerPrefs.GetInt("ice") == 1) {
+                attackScript.AddProjectile(ice);
             }
             // add the magic projectile to the player's inventory
             

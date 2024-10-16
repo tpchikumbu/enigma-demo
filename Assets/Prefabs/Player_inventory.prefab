@@ -104,6 +104,9 @@ MonoBehaviour:
   controlEnabled: 1
   spriteRenderer: {fileID: 0}
   facingLeft: 1
+  fireball: {fileID: 11400000, guid: 66a1acdb528dde2e8bbeefff94c0e0f8, type: 2}
+  blackhole: {fileID: 11400000, guid: a4d60bf7fd9b6945d8508d7129bc50cf, type: 2}
+  ice: {fileID: 11400000, guid: 2ba8c81dc77d6bb99b960492f2f12a07, type: 2}
 --- !u!212 &6156988286866430798
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -377,7 +380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8534e17a0f90604c9afd4f5c73d829f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Id: e9cebe6e-c840-471c-802f-627b407a9ed1
+  m_Id: eef57d3e-3363-4ac3-b426-ecce869cfef4
 --- !u!114 &976460573531712425
 MonoBehaviour:
   m_ObjectHideFlags: 0
