@@ -7,7 +7,7 @@ using Platformer.Model;
 using Platformer.Core;
 using static UnityEngine.RuleTile.TilingRuleOutput;
 using System.IO;
-using UnityEditor;
+// using UnityEditor;
 
 namespace Platformer.Mechanics
 {
@@ -64,7 +64,7 @@ namespace Platformer.Mechanics
                 flameTome.itemName = "Tome of Ash";
                 flameTome.itemCategory = "Magic";
                 flameTome.itemSprite = Resources.Load<Sprite>("Assets/book_sprites/64x64/book_image_12.png");
-                flameTome.itemPrefab = AssetDatabase.LoadAssetAtPath<GameObject>("Assets/Prefabs/Projectiles/fireball.prefab");
+                flameTome.itemPrefab = Resources.Load<GameObject>("Assets/Prefabs/Projectiles/fireball.prefab");
                 attackScript.AddProjectile(flameTome);
                 if  (flameTome.itemPrefab != null) {
                     print("flameTome prefab loaded");
@@ -79,7 +79,7 @@ namespace Platformer.Mechanics
                 gravityTome.itemName = "Newton's Gospel";
                 gravityTome.itemCategory = "Magic";
                 gravityTome.itemSprite = Resources.Load<Sprite>("Assets/book_sprites/64x64/book_image_10.png");
-                gravityTome.itemPrefab = AssetDatabase.LoadAssetAtPath<GameObject>("Assets/Prefabs/Projectiles/blackhole.prefab");
+                gravityTome.itemPrefab = Resources.Load<GameObject>("Assets/Prefabs/Projectiles/blackhole.prefab");
                 attackScript.AddProjectile(gravityTome);
                 if  (gravityTome.itemPrefab != null) {
                     print("gravityTome prefab loaded");
