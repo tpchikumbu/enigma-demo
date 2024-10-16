@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 0300005ef6479a848a07259644309a19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5540113295378363009
+    second: RedPortal-transformed_0
+  - first:
+      213: -7012827537254108530
+    second: RedPortal-transformed_1
+  - first:
+      213: 5169914671657713880
+    second: RedPortal-transformed_2
+  - first:
+      213: -6248246788044858756
+    second: RedPortal-transformed_3
+  - first:
+      213: -6705626794282248205
+    second: RedPortal-transformed_4
+  - first:
+      213: -6087511684386691772
+    second: RedPortal-transformed_5
+  - first:
+      213: 1552188425306995157
+    second: RedPortal-transformed_6
+  - first:
+      213: -1039746353617343751
+    second: RedPortal-transformed_7
+  - first:
+      213: 6348741020679810788
+    second: RedPortal-transformed_8
+  - first:
+      213: -873145189410658017
+    second: RedPortal-transformed_9
+  - first:
+      213: 3875206685528367788
+    second: RedPortal-transformed_10
+  - first:
+      213: -2819194045737052252
+    second: RedPortal-transformed_11
+  - first:
+      213: -2541055939084767364
+    second: RedPortal-transformed_12
+  - first:
+      213: 4359038652969924046
+    second: RedPortal-transformed_13
+  - first:
+      213: -6242967620495843660
+    second: RedPortal-transformed_14
+  - first:
+      213: -2639608212628306491
+    second: RedPortal-transformed_15
+  - first:
+      213: 6698765467740879538
+    second: RedPortal-transformed_16
+  - first:
+      213: -6391012996705263327
+    second: RedPortal-transformed_17
+  - first:
+      213: 6318982120750221662
+    second: RedPortal-transformed_18
+  - first:
+      213: 7203201560858367942
+    second: RedPortal-transformed_19
+  - first:
+      213: 2268952105974977934
+    second: RedPortal-transformed_20
+  - first:
+      213: -3185521755482661735
+    second: RedPortal-transformed_21
+  - first:
+      213: -7839845488686534179
+    second: RedPortal-transformed_22
+  - first:
+      213: -2661063770208579488
+    second: RedPortal-transformed_23
+  - first:
+      213: -5802400145247885466
+    second: RedPortal-transformed_24
+  - first:
+      213: -4780051320668218884
+    second: RedPortal-transformed_25
+  - first:
+      213: -3867945073317002975
+    second: RedPortal-transformed_26
+  - first:
+      213: -4694779805099823855
+    second: RedPortal-transformed_27
+  - first:
+      213: 7550805965394387966
+    second: RedPortal-transformed_28
+  - first:
+      213: -7276438092819979766
+    second: RedPortal-transformed_29
+  - first:
+      213: -2849908849732480273
+    second: RedPortal-transformed_30
+  - first:
+      213: -7137118872695166732
+    second: RedPortal-transformed_31
+  - first:
+      213: 1961161608343892822
+    second: RedPortal-transformed_32
+  - first:
+      213: 4797160238237491507
+    second: RedPortal-transformed_33
+  - first:
+      213: -7303476646183857240
+    second: RedPortal-transformed_34
+  - first:
+      213: 5902562653936691661
+    second: RedPortal-transformed_35
+  - first:
+      213: -1557437126160049025
+    second: RedPortal-transformed_36
+  - first:
+      213: 1092006517993119884
+    second: RedPortal-transformed_37
+  - first:
+      213: 6479103396998904208
+    second: RedPortal-transformed_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedPortal-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1010
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182327a70bf62ec40800000000000000
+      internalID: 5540113295378363009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1095
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8234eaa28e6dae90800000000000000
+      internalID: -7012827537254108530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1037
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d00d33a00a3fb740800000000000000
+      internalID: 5169914671657713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a5c91a6a4c949a0800000000000000
+      internalID: -6248246788044858756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1085
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7177265f3d0f2a0800000000000000
+      internalID: -6705626794282248205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1054
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44567164060d48ba0800000000000000
+      internalID: -6087511684386691772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1054
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d975e2262b7a8510800000000000000
+      internalID: 1552188425306995157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa612043341291f0800000000000000
+      internalID: -1039746353617343751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1094
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee229c32524b1850800000000000000
+      internalID: 6348741020679810788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1089
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1926db8317f1e3f0800000000000000
+      internalID: -873145189410658017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1022
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22322e2ff77c530800000000000000
+      internalID: 3875206685528367788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1069
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a752feb3f530e8d0800000000000000
+      internalID: -2819194045737052252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1090
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa474261b5cbcd0800000000000000
+      internalID: -2541055939084767364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1016
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec538784f8a6e7c30800000000000000
+      internalID: 4359038652969924046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1053
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be541c96068c59a0800000000000000
+      internalID: -6242967620495843660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1079
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5061cd05a3e5bd0800000000000000
+      internalID: -2639608212628306491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1075
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba395a83bbc6fc50800000000000000
+      internalID: 6698765467740879538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1010
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216a706a8f8e47a0800000000000000
+      internalID: -6391012996705263327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1010
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598c5962c881b750800000000000000
+      internalID: 6318982120750221662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1010
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79088c7a9e6f360800000000000000
+      internalID: 7203201560858367942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1010
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8553014befec7f10800000000000000
+      internalID: 2268952105974977934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1034
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c5d2c47d0cac3d0800000000000000
+      internalID: -3185521755482661735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1054
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f3e8b016433390800000000000000
+      internalID: -7839845488686534179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1053
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605e049990021bd0800000000000000
+      internalID: -2661063770208579488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1053
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66723d17fcbb97fa0800000000000000
+      internalID: -5802400145247885466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1054
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91f6f46a8d9adb0800000000000000
+      internalID: -4780051320668218884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1037
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c736f27c425ac0800000000000000
+      internalID: -3867945073317002975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 758
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de85a24aac8deb0800000000000000
+      internalID: -4694779805099823855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ab37050ad9c860800000000000000
+      internalID: 7550805965394387966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1010
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0228575b16e40b90800000000000000
+      internalID: -7276438092819979766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 237
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2147920071378d0800000000000000
+      internalID: -2849908849732480273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 243
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a449033cd3fc90800000000000000
+      internalID: -7137118872695166732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 200
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653b8749712773b10800000000000000
+      internalID: 1961161608343892822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33126caf1dfe29240800000000000000
+      internalID: 4797160238237491507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 158
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a399de8fa6d4aa90800000000000000
+      internalID: -7303476646183857240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 113
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9226ce57d1ae150800000000000000
+      internalID: 5902562653936691661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c99377f2fd26ae0800000000000000
+      internalID: -1557437126160049025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8024657426972f00800000000000000
+      internalID: 1092006517993119884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedPortal-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099752936366ae950800000000000000
+      internalID: 6479103396998904208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedPortal-transformed_0: 5540113295378363009
+      RedPortal-transformed_1: -7012827537254108530
+      RedPortal-transformed_10: 3875206685528367788
+      RedPortal-transformed_11: -2819194045737052252
+      RedPortal-transformed_12: -2541055939084767364
+      RedPortal-transformed_13: 4359038652969924046
+      RedPortal-transformed_14: -6242967620495843660
+      RedPortal-transformed_15: -2639608212628306491
+      RedPortal-transformed_16: 6698765467740879538
+      RedPortal-transformed_17: -6391012996705263327
+      RedPortal-transformed_18: 6318982120750221662
+      RedPortal-transformed_19: 7203201560858367942
+      RedPortal-transformed_2: 5169914671657713880
+      RedPortal-transformed_20: 2268952105974977934
+      RedPortal-transformed_21: -3185521755482661735
+      RedPortal-transformed_22: -7839845488686534179
+      RedPortal-transformed_23: -2661063770208579488
+      RedPortal-transformed_24: -5802400145247885466
+      RedPortal-transformed_25: -4780051320668218884
+      RedPortal-transformed_26: -3867945073317002975
+      RedPortal-transformed_27: -4694779805099823855
+      RedPortal-transformed_28: 7550805965394387966
+      RedPortal-transformed_29: -7276438092819979766
+      RedPortal-transformed_3: -6248246788044858756
+      RedPortal-transformed_30: -2849908849732480273
+      RedPortal-transformed_31: -7137118872695166732
+      RedPortal-transformed_32: 1961161608343892822
+      RedPortal-transformed_33: 4797160238237491507
+      RedPortal-transformed_34: -7303476646183857240
+      RedPortal-transformed_35: 5902562653936691661
+      RedPortal-transformed_36: -1557437126160049025
+      RedPortal-transformed_37: 1092006517993119884
+      RedPortal-transformed_38: 6479103396998904208
+      RedPortal-transformed_4: -6705626794282248205
+      RedPortal-transformed_5: -6087511684386691772
+      RedPortal-transformed_6: 1552188425306995157
+      RedPortal-transformed_7: -1039746353617343751
+      RedPortal-transformed_8: 6348741020679810788
+      RedPortal-transformed_9: -873145189410658017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

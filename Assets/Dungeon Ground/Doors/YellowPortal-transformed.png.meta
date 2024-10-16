@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: b050324d727a7014e84b81c4c768e70e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4292169825751280680
+    second: YellowPortal-transformed_0
+  - first:
+      213: -3477425766640604693
+    second: YellowPortal-transformed_1
+  - first:
+      213: 4772993639205842995
+    second: YellowPortal-transformed_2
+  - first:
+      213: 955470281103898620
+    second: YellowPortal-transformed_3
+  - first:
+      213: 4548985786861602153
+    second: YellowPortal-transformed_4
+  - first:
+      213: -7715349221441792272
+    second: YellowPortal-transformed_5
+  - first:
+      213: -7440714111279060813
+    second: YellowPortal-transformed_6
+  - first:
+      213: 513270766809702108
+    second: YellowPortal-transformed_7
+  - first:
+      213: -8439905783961836160
+    second: YellowPortal-transformed_8
+  - first:
+      213: -1068726509742317606
+    second: YellowPortal-transformed_9
+  - first:
+      213: -4330579046597500526
+    second: YellowPortal-transformed_10
+  - first:
+      213: -1787201951305167751
+    second: YellowPortal-transformed_11
+  - first:
+      213: -5436655520820253538
+    second: YellowPortal-transformed_12
+  - first:
+      213: 5902593632132548389
+    second: YellowPortal-transformed_13
+  - first:
+      213: 1697732999446087737
+    second: YellowPortal-transformed_14
+  - first:
+      213: -3898145570583187021
+    second: YellowPortal-transformed_15
+  - first:
+      213: -4782097344374659156
+    second: YellowPortal-transformed_16
+  - first:
+      213: -250045452196780329
+    second: YellowPortal-transformed_17
+  - first:
+      213: -7243541593783902594
+    second: YellowPortal-transformed_18
+  - first:
+      213: 5168980478159988885
+    second: YellowPortal-transformed_19
+  - first:
+      213: -7403688020227288172
+    second: YellowPortal-transformed_20
+  - first:
+      213: -1942085176609192172
+    second: YellowPortal-transformed_21
+  - first:
+      213: -7621539616879496751
+    second: YellowPortal-transformed_22
+  - first:
+      213: 7245589637761703738
+    second: YellowPortal-transformed_23
+  - first:
+      213: 1558316838512351212
+    second: YellowPortal-transformed_24
+  - first:
+      213: -5805661201102594861
+    second: YellowPortal-transformed_25
+  - first:
+      213: -2956236705027277423
+    second: YellowPortal-transformed_26
+  - first:
+      213: 8542830835093511922
+    second: YellowPortal-transformed_27
+  - first:
+      213: 6860010899766581386
+    second: YellowPortal-transformed_28
+  - first:
+      213: -4493300544220143862
+    second: YellowPortal-transformed_29
+  - first:
+      213: 1378997197893155508
+    second: YellowPortal-transformed_30
+  - first:
+      213: 3348733199455460209
+    second: YellowPortal-transformed_31
+  - first:
+      213: -5052108033980968544
+    second: YellowPortal-transformed_32
+  - first:
+      213: -6319021623142726789
+    second: YellowPortal-transformed_33
+  - first:
+      213: -797305048296894966
+    second: YellowPortal-transformed_34
+  - first:
+      213: 8240364083362568252
+    second: YellowPortal-transformed_35
+  - first:
+      213: 7195255622848752728
+    second: YellowPortal-transformed_36
+  - first:
+      213: 1326474875114959909
+    second: YellowPortal-transformed_37
+  - first:
+      213: -4076554513290542282
+    second: YellowPortal-transformed_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowPortal-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1010
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3d17cc8462f64c0800000000000000
+      internalID: -4292169825751280680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1095
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a89e70b3bdbfc0800000000000000
+      internalID: -3477425766640604693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1037
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330301c2d641d3240800000000000000
+      internalID: 4772993639205842995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f3aa8823824d00800000000000000
+      internalID: 955470281103898620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1085
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965cf2ab87e312f30800000000000000
+      internalID: 4548985786861602153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1054
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f610e1c2c29de490800000000000000
+      internalID: -7715349221441792272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1054
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8a9f930f54db890800000000000000
+      internalID: -7440714111279060813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cded8410b018f1700800000000000000
+      internalID: 513270766809702108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1094
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a031f76e6fda80800000000000000
+      internalID: -8439905783961836160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1089
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf14c8d6ee1b21f0800000000000000
+      internalID: -1068726509742317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1022
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916ecf2d41b6e3c0800000000000000
+      internalID: -4330579046597500526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1069
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c02965b459237e0800000000000000
+      internalID: -1787201951305167751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1090
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ca753cb9e1d84b0800000000000000
+      internalID: -5436655520820253538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1016
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274eb892a93ae150800000000000000
+      internalID: 5902593632132548389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1053
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93841730b2f8f8710800000000000000
+      internalID: 1697732999446087737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1079
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b170aeb14107e9c0800000000000000
+      internalID: -3898145570583187021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1075
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a53b4dc392adb0800000000000000
+      internalID: -4782097344374659156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1010
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6eb1c6cf8a78cf0800000000000000
+      internalID: -250045452196780329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1010
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5eb26c45c97b90800000000000000
+      internalID: -7243541593783902594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1010
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a7a3cb58ebb740800000000000000
+      internalID: 5168980478159988885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1010
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939986d8f0d04990800000000000000
+      internalID: -7403688020227288172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1034
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41748ac42d35c05e0800000000000000
+      internalID: -1942085176609192172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1054
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1b45e591ada3690800000000000000
+      internalID: -7621539616879496751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1053
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f990303618d8460800000000000000
+      internalID: 7245589637761703738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1053
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7d90788e040a510800000000000000
+      internalID: 1558316838512351212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1054
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1306b5e52e6fa0800000000000000
+      internalID: -5805661201102594861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1037
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19db0ec216659f6d0800000000000000
+      internalID: -2956236705027277423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 758
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe9006f16b3e8670800000000000000
+      internalID: 8542830835093511922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8815e34197a33f50800000000000000
+      internalID: 6860010899766581386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1010
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f50b826f694a1c0800000000000000
+      internalID: -4493300544220143862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 237
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba3eae25ae232310800000000000000
+      internalID: 1378997197893155508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 243
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b99114a17197e20800000000000000
+      internalID: 3348733199455460209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 200
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1daa3a28e43e9b0800000000000000
+      internalID: -5052108033980968544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73c09830535e48a0800000000000000
+      internalID: -6319021623142726789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 158
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e43aa68476fe4f0800000000000000
+      internalID: -797305048296894966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 113
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3896b87977ab5270800000000000000
+      internalID: 8240364083362568252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c280ceddeaad360800000000000000
+      internalID: 7195255622848752728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52435b6fed5986210800000000000000
+      internalID: 1326474875114959909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowPortal-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334dc7c44b2d67c0800000000000000
+      internalID: -4076554513290542282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YellowPortal-transformed_0: -4292169825751280680
+      YellowPortal-transformed_1: -3477425766640604693
+      YellowPortal-transformed_10: -4330579046597500526
+      YellowPortal-transformed_11: -1787201951305167751
+      YellowPortal-transformed_12: -5436655520820253538
+      YellowPortal-transformed_13: 5902593632132548389
+      YellowPortal-transformed_14: 1697732999446087737
+      YellowPortal-transformed_15: -3898145570583187021
+      YellowPortal-transformed_16: -4782097344374659156
+      YellowPortal-transformed_17: -250045452196780329
+      YellowPortal-transformed_18: -7243541593783902594
+      YellowPortal-transformed_19: 5168980478159988885
+      YellowPortal-transformed_2: 4772993639205842995
+      YellowPortal-transformed_20: -7403688020227288172
+      YellowPortal-transformed_21: -1942085176609192172
+      YellowPortal-transformed_22: -7621539616879496751
+      YellowPortal-transformed_23: 7245589637761703738
+      YellowPortal-transformed_24: 1558316838512351212
+      YellowPortal-transformed_25: -5805661201102594861
+      YellowPortal-transformed_26: -2956236705027277423
+      YellowPortal-transformed_27: 8542830835093511922
+      YellowPortal-transformed_28: 6860010899766581386
+      YellowPortal-transformed_29: -4493300544220143862
+      YellowPortal-transformed_3: 955470281103898620
+      YellowPortal-transformed_30: 1378997197893155508
+      YellowPortal-transformed_31: 3348733199455460209
+      YellowPortal-transformed_32: -5052108033980968544
+      YellowPortal-transformed_33: -6319021623142726789
+      YellowPortal-transformed_34: -797305048296894966
+      YellowPortal-transformed_35: 8240364083362568252
+      YellowPortal-transformed_36: 7195255622848752728
+      YellowPortal-transformed_37: 1326474875114959909
+      YellowPortal-transformed_38: -4076554513290542282
+      YellowPortal-transformed_4: 4548985786861602153
+      YellowPortal-transformed_5: -7715349221441792272
+      YellowPortal-transformed_6: -7440714111279060813
+      YellowPortal-transformed_7: 513270766809702108
+      YellowPortal-transformed_8: -8439905783961836160
+      YellowPortal-transformed_9: -1068726509742317606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

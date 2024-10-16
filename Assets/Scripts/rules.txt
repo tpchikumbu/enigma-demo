@@ -1,0 +1,17 @@
+# The Game of 25:
+
+1. **Objective**: Be the player to reach exactly 25 points.
+
+2. **Starting**: The game begins at 0 points.
+
+3. **Turns**: Players alternate turns.
+
+4. **Making a Move**: On your turn, add either 1, 2, or 3 points to the total.
+    Ice = 1
+    Fire = 2
+    BlackHole = 3
+
+5. **Winning**: The first player to reach exactly 25 points wins the game.
+
+
+

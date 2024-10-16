@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: f7de727314f76f64897c16fa645afcd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9175498702369941445
+    second: GreyPortal-transformed_0
+  - first:
+      213: 2384140638427917503
+    second: GreyPortal-transformed_1
+  - first:
+      213: 7221289437344130831
+    second: GreyPortal-transformed_2
+  - first:
+      213: 3657206084907029582
+    second: GreyPortal-transformed_3
+  - first:
+      213: 2601221421635054164
+    second: GreyPortal-transformed_4
+  - first:
+      213: 3535376898297582778
+    second: GreyPortal-transformed_5
+  - first:
+      213: -3859484472401848704
+    second: GreyPortal-transformed_6
+  - first:
+      213: -363564389023785082
+    second: GreyPortal-transformed_7
+  - first:
+      213: -6340783940881540412
+    second: GreyPortal-transformed_8
+  - first:
+      213: -8822671832724365230
+    second: GreyPortal-transformed_9
+  - first:
+      213: -3098224150442320709
+    second: GreyPortal-transformed_10
+  - first:
+      213: 2044532187422341740
+    second: GreyPortal-transformed_11
+  - first:
+      213: 16643091052282557
+    second: GreyPortal-transformed_12
+  - first:
+      213: -2057682452935800946
+    second: GreyPortal-transformed_13
+  - first:
+      213: -5311818337631871240
+    second: GreyPortal-transformed_14
+  - first:
+      213: -5303144085100886940
+    second: GreyPortal-transformed_15
+  - first:
+      213: -8816224307892755726
+    second: GreyPortal-transformed_16
+  - first:
+      213: -3232555529210174522
+    second: GreyPortal-transformed_17
+  - first:
+      213: 1515735480234188275
+    second: GreyPortal-transformed_18
+  - first:
+      213: 2851483676415396453
+    second: GreyPortal-transformed_19
+  - first:
+      213: 1067270158686557422
+    second: GreyPortal-transformed_20
+  - first:
+      213: -4336670913831655091
+    second: GreyPortal-transformed_21
+  - first:
+      213: 5382113482196223332
+    second: GreyPortal-transformed_22
+  - first:
+      213: 763332225835042348
+    second: GreyPortal-transformed_23
+  - first:
+      213: -8445472537275101432
+    second: GreyPortal-transformed_24
+  - first:
+      213: 4983377535204249072
+    second: GreyPortal-transformed_25
+  - first:
+      213: -1521004410739823021
+    second: GreyPortal-transformed_26
+  - first:
+      213: 4799754880434569019
+    second: GreyPortal-transformed_27
+  - first:
+      213: -1848207149649134005
+    second: GreyPortal-transformed_28
+  - first:
+      213: -5290186294408126559
+    second: GreyPortal-transformed_29
+  - first:
+      213: -6399711938771456262
+    second: GreyPortal-transformed_30
+  - first:
+      213: -6411305821798513214
+    second: GreyPortal-transformed_31
+  - first:
+      213: -1600444272476489298
+    second: GreyPortal-transformed_32
+  - first:
+      213: -1809797921976176562
+    second: GreyPortal-transformed_33
+  - first:
+      213: -5702063019743547604
+    second: GreyPortal-transformed_34
+  - first:
+      213: -1573658971629175846
+    second: GreyPortal-transformed_35
+  - first:
+      213: 8997518206057103936
+    second: GreyPortal-transformed_36
+  - first:
+      213: -3727175934301965205
+    second: GreyPortal-transformed_37
+  - first:
+      213: 7328297474517879805
+    second: GreyPortal-transformed_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreyPortal-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1010
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389e284b841aa080800000000000000
+      internalID: -9175498702369941445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1095
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbca118674b261120800000000000000
+      internalID: 2384140638427917503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1037
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f076d25bb7c273460800000000000000
+      internalID: 7221289437344130831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44d749be8101c230800000000000000
+      internalID: 3657206084907029582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1085
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aa1b2e915691420800000000000000
+      internalID: 2601221421635054164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1054
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4562ace8e201130800000000000000
+      internalID: 3535376898297582778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1054
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0861a5e125b507ac0800000000000000
+      internalID: -3859484472401848704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f514b4d1c54faf0800000000000000
+      internalID: -363564389023785082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1094
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1146c9920108a0800000000000000
+      internalID: -6340783940881540412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1089
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ae9076b29f8580800000000000000
+      internalID: -8822671832724365230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1022
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc595edc85e005d0800000000000000
+      internalID: -3098224150442320709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1069
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a392b2133af5c10800000000000000
+      internalID: 2044532187422341740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1090
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c22a9dc02b3000800000000000000
+      internalID: 16643091052282557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1016
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87053c06b4a173e0800000000000000
+      internalID: -2057682452935800946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1053
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fedb0a7d51a846b0800000000000000
+      internalID: -5311818337631871240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1079
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46409d64d827766b0800000000000000
+      internalID: -5303144085100886940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1075
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f263ebc3ba76a580800000000000000
+      internalID: -8816224307892755726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1010
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3e3bc7fd7a323d0800000000000000
+      internalID: -3232555529210174522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1010
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd90d87369f80510800000000000000
+      internalID: 1515735480234188275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1010
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a809fbb41829720800000000000000
+      internalID: 2851483676415396453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1010
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee413effd84bfce00800000000000000
+      internalID: 1067270158686557422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1034
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ab41d7cc01d3c0800000000000000
+      internalID: -4336670913831655091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1054
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465852742bb11ba40800000000000000
+      internalID: 5382113482196223332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1053
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2681867d96e79a00800000000000000
+      internalID: 763332225835042348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1053
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f866f2977abca80800000000000000
+      internalID: -8445472537275101432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1054
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc2871773882540800000000000000
+      internalID: 4983377535204249072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1037
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eec0c0c8e44eae0800000000000000
+      internalID: -1521004410739823021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 758
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fff3132a72c9240800000000000000
+      internalID: 4799754880434569019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e73ddb369d956e0800000000000000
+      internalID: -1848207149649134005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1010
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afd926089b7596b0800000000000000
+      internalID: -5290186294408126559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 237
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe63b816e7af27a0800000000000000
+      internalID: -6399711938771456262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 243
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54e49d2577607a0800000000000000
+      internalID: -6411305821798513214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 200
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fa38e9641ac9e0800000000000000
+      internalID: -1600444272476489298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40be51f06e42e6e0800000000000000
+      internalID: -1809797921976176562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 158
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6b45f4e33ed0b0800000000000000
+      internalID: -5702063019743547604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 113
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbbf6eb08d392ae0800000000000000
+      internalID: -1573658971629175846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c424332b9ddc70800000000000000
+      internalID: 8997518206057103936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64fb843c39664cc0800000000000000
+      internalID: -3727175934301965205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyPortal-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbc701e9b753b560800000000000000
+      internalID: 7328297474517879805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreyPortal-transformed_0: -9175498702369941445
+      GreyPortal-transformed_1: 2384140638427917503
+      GreyPortal-transformed_10: -3098224150442320709
+      GreyPortal-transformed_11: 2044532187422341740
+      GreyPortal-transformed_12: 16643091052282557
+      GreyPortal-transformed_13: -2057682452935800946
+      GreyPortal-transformed_14: -5311818337631871240
+      GreyPortal-transformed_15: -5303144085100886940
+      GreyPortal-transformed_16: -8816224307892755726
+      GreyPortal-transformed_17: -3232555529210174522
+      GreyPortal-transformed_18: 1515735480234188275
+      GreyPortal-transformed_19: 2851483676415396453
+      GreyPortal-transformed_2: 7221289437344130831
+      GreyPortal-transformed_20: 1067270158686557422
+      GreyPortal-transformed_21: -4336670913831655091
+      GreyPortal-transformed_22: 5382113482196223332
+      GreyPortal-transformed_23: 763332225835042348
+      GreyPortal-transformed_24: -8445472537275101432
+      GreyPortal-transformed_25: 4983377535204249072
+      GreyPortal-transformed_26: -1521004410739823021
+      GreyPortal-transformed_27: 4799754880434569019
+      GreyPortal-transformed_28: -1848207149649134005
+      GreyPortal-transformed_29: -5290186294408126559
+      GreyPortal-transformed_3: 3657206084907029582
+      GreyPortal-transformed_30: -6399711938771456262
+      GreyPortal-transformed_31: -6411305821798513214
+      GreyPortal-transformed_32: -1600444272476489298
+      GreyPortal-transformed_33: -1809797921976176562
+      GreyPortal-transformed_34: -5702063019743547604
+      GreyPortal-transformed_35: -1573658971629175846
+      GreyPortal-transformed_36: 8997518206057103936
+      GreyPortal-transformed_37: -3727175934301965205
+      GreyPortal-transformed_38: 7328297474517879805
+      GreyPortal-transformed_4: 2601221421635054164
+      GreyPortal-transformed_5: 3535376898297582778
+      GreyPortal-transformed_6: -3859484472401848704
+      GreyPortal-transformed_7: -363564389023785082
+      GreyPortal-transformed_8: -6340783940881540412
+      GreyPortal-transformed_9: -8822671832724365230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: a7dfb82d8bcfd844dabb1ce7db554186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6365594252165130748
+    second: GreenPortal-transformed_0
+  - first:
+      213: -8710216619364880957
+    second: GreenPortal-transformed_1
+  - first:
+      213: -9126141228895610956
+    second: GreenPortal-transformed_2
+  - first:
+      213: -2548814112452870879
+    second: GreenPortal-transformed_3
+  - first:
+      213: 6201947222857810856
+    second: GreenPortal-transformed_4
+  - first:
+      213: -7260405773340831191
+    second: GreenPortal-transformed_5
+  - first:
+      213: -8794112049919228511
+    second: GreenPortal-transformed_6
+  - first:
+      213: -2748671831308608931
+    second: GreenPortal-transformed_7
+  - first:
+      213: 8995992032116689415
+    second: GreenPortal-transformed_8
+  - first:
+      213: -5715815726478889105
+    second: GreenPortal-transformed_9
+  - first:
+      213: 5261647755785525690
+    second: GreenPortal-transformed_10
+  - first:
+      213: 4217826936637492275
+    second: GreenPortal-transformed_11
+  - first:
+      213: -766309896933532712
+    second: GreenPortal-transformed_12
+  - first:
+      213: -8853487848436275932
+    second: GreenPortal-transformed_13
+  - first:
+      213: -2403844359246152355
+    second: GreenPortal-transformed_14
+  - first:
+      213: -4282486587769507609
+    second: GreenPortal-transformed_15
+  - first:
+      213: 1340952671979646205
+    second: GreenPortal-transformed_16
+  - first:
+      213: -513458521904321280
+    second: GreenPortal-transformed_17
+  - first:
+      213: 6129550277363077765
+    second: GreenPortal-transformed_18
+  - first:
+      213: 8782219390666096577
+    second: GreenPortal-transformed_19
+  - first:
+      213: -2097864234882339530
+    second: GreenPortal-transformed_20
+  - first:
+      213: -6313832713089406952
+    second: GreenPortal-transformed_21
+  - first:
+      213: -6877153853976126333
+    second: GreenPortal-transformed_22
+  - first:
+      213: -9093513771034321457
+    second: GreenPortal-transformed_23
+  - first:
+      213: 9083352651622603188
+    second: GreenPortal-transformed_24
+  - first:
+      213: -8931583884770368603
+    second: GreenPortal-transformed_25
+  - first:
+      213: -1067659915326864791
+    second: GreenPortal-transformed_26
+  - first:
+      213: -4869191069853721500
+    second: GreenPortal-transformed_27
+  - first:
+      213: -1142180868838105727
+    second: GreenPortal-transformed_28
+  - first:
+      213: -5269368847622900187
+    second: GreenPortal-transformed_29
+  - first:
+      213: 1574041003113336350
+    second: GreenPortal-transformed_30
+  - first:
+      213: -7953170421507561113
+    second: GreenPortal-transformed_31
+  - first:
+      213: -5242620836815936479
+    second: GreenPortal-transformed_32
+  - first:
+      213: 7441825640079679819
+    second: GreenPortal-transformed_33
+  - first:
+      213: 6262822063628511962
+    second: GreenPortal-transformed_34
+  - first:
+      213: 2532410320596067679
+    second: GreenPortal-transformed_35
+  - first:
+      213: -7104163392741271896
+    second: GreenPortal-transformed_36
+  - first:
+      213: -6429017344273923283
+    second: GreenPortal-transformed_37
+  - first:
+      213: 2667820759470652088
+    second: GreenPortal-transformed_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenPortal-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1010
+        width: 19
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406dd6701cdd8a7a0800000000000000
+      internalID: -6365594252165130748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1095
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6d0622281f1780800000000000000
+      internalID: -8710216619364880957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1037
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b751a997ee695180800000000000000
+      internalID: -9126141228895610956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1054
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d7eb4a11bc0acd0800000000000000
+      internalID: -2548814112452870879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1085
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3092ec32eb11650800000000000000
+      internalID: 6201947222857810856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1054
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92213da9a6bdd3b90800000000000000
+      internalID: -7260405773340831191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1054
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5059d0fa905f580800000000000000
+      internalID: -8794112049919228511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1054
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5ab25881cad9d0800000000000000
+      internalID: -2748671831308608931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1094
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a4f84271f28dc70800000000000000
+      internalID: 8995992032116689415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1089
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f62a561e75da0b0800000000000000
+      internalID: -5715815726478889105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1022
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d3d8a1c0250940800000000000000
+      internalID: 5261647755785525690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1069
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0a5a704bb88a30800000000000000
+      internalID: 4217826936637492275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1090
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db196575358d55f0800000000000000
+      internalID: -766309896933532712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1016
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e7baa5b7122580800000000000000
+      internalID: -8853487848436275932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1053
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d7ec79a44d3aed0800000000000000
+      internalID: -2403844359246152355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1079
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0bf94532d8194c0800000000000000
+      internalID: -4282486587769507609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1075
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc25f9b9550c9210800000000000000
+      internalID: 1340952671979646205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1010
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00deefad134dfd8f0800000000000000
+      internalID: -513458521904321280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1010
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5829f136089801550800000000000000
+      internalID: 6129550277363077765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1010
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf33307106b0e970800000000000000
+      internalID: 8782219390666096577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1010
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d67d4e793e2e2e0800000000000000
+      internalID: -2097864234882339530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1034
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a01d7992c068a0800000000000000
+      internalID: -6313832713089406952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1054
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c5b0ca1017f80a0800000000000000
+      internalID: -6877153853976126333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1053
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd506d97695dc180800000000000000
+      internalID: -9093513771034321457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1053
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b951996c1d8e0e70800000000000000
+      internalID: 9083352651622603188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1054
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a8a247c3ac0480800000000000000
+      internalID: -8931583884770368603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1037
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c406b6f8ee21f0800000000000000
+      internalID: -1067659915326864791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 758
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5dd125882d6cb0800000000000000
+      internalID: -4869191069853721500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1013
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d58a32d882620f0800000000000000
+      internalID: -1142180868838105727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1010
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267dee83f07fd6b0800000000000000
+      internalID: -5269368847622900187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 237
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e4874e3fd18d510800000000000000
+      internalID: 1574041003113336350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 243
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769e5eba3a9a0a190800000000000000
+      internalID: -7953170421507561113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 200
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124668120287e37b0800000000000000
+      internalID: -5242620836815936479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e75dbdfca64760800000000000000
+      internalID: 7441825640079679819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 158
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada6e0a2c730ae650800000000000000
+      internalID: 6262822063628511962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 113
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5569a0f4cde42320800000000000000
+      internalID: 2532410320596067679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 115
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a69255a801f86d90800000000000000
+      internalID: -7104163392741271896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d234abba9ca87c6a0800000000000000
+      internalID: -6429017344273923283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenPortal-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba39a498d0060520800000000000000
+      internalID: 2667820759470652088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GreenPortal-transformed_0: -6365594252165130748
+      GreenPortal-transformed_1: -8710216619364880957
+      GreenPortal-transformed_10: 5261647755785525690
+      GreenPortal-transformed_11: 4217826936637492275
+      GreenPortal-transformed_12: -766309896933532712
+      GreenPortal-transformed_13: -8853487848436275932
+      GreenPortal-transformed_14: -2403844359246152355
+      GreenPortal-transformed_15: -4282486587769507609
+      GreenPortal-transformed_16: 1340952671979646205
+      GreenPortal-transformed_17: -513458521904321280
+      GreenPortal-transformed_18: 6129550277363077765
+      GreenPortal-transformed_19: 8782219390666096577
+      GreenPortal-transformed_2: -9126141228895610956
+      GreenPortal-transformed_20: -2097864234882339530
+      GreenPortal-transformed_21: -6313832713089406952
+      GreenPortal-transformed_22: -6877153853976126333
+      GreenPortal-transformed_23: -9093513771034321457
+      GreenPortal-transformed_24: 9083352651622603188
+      GreenPortal-transformed_25: -8931583884770368603
+      GreenPortal-transformed_26: -1067659915326864791
+      GreenPortal-transformed_27: -4869191069853721500
+      GreenPortal-transformed_28: -1142180868838105727
+      GreenPortal-transformed_29: -5269368847622900187
+      GreenPortal-transformed_3: -2548814112452870879
+      GreenPortal-transformed_30: 1574041003113336350
+      GreenPortal-transformed_31: -7953170421507561113
+      GreenPortal-transformed_32: -5242620836815936479
+      GreenPortal-transformed_33: 7441825640079679819
+      GreenPortal-transformed_34: 6262822063628511962
+      GreenPortal-transformed_35: 2532410320596067679
+      GreenPortal-transformed_36: -7104163392741271896
+      GreenPortal-transformed_37: -6429017344273923283
+      GreenPortal-transformed_38: 2667820759470652088
+      GreenPortal-transformed_4: 6201947222857810856
+      GreenPortal-transformed_5: -7260405773340831191
+      GreenPortal-transformed_6: -8794112049919228511
+      GreenPortal-transformed_7: -2748671831308608931
+      GreenPortal-transformed_8: 8995992032116689415
+      GreenPortal-transformed_9: -5715815726478889105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

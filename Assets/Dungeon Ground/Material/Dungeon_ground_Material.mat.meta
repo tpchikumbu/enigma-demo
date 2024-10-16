@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6df9718aa8737b4e86604fe29878535
+timeCreated: 1427325960
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 33296
+  packageName: Dungeon Ground Texture
+  packageVersion: 1.2
+  assetPath: Assets/Dungeon Ground/Material/Dungeon_ground_Material.mat
+  uploadId: 78215

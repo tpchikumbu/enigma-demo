@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5299e67c53c9719e1ad8b8675d551a00, type: 3}
+  m_Name: FinalMagic
+  m_EditorClassIdentifier: 
+  itemName: Dicaprio's Tale
+  itemCategory: Magic
+  itemSprite: {fileID: -8491853837263636647, guid: d9781d476e03a6bbaab4b0e97a54a017,
+    type: 3}
+  itemPrefab: {fileID: 7253467644535542540, guid: ee52f3550d22256439d81498278b71d4,
+    type: 3}
