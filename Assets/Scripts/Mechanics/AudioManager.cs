@@ -31,8 +31,8 @@ public class AudioManager : MonoBehaviour
         sfxSource.Play();
     }
     public void PlayUnlock() {
-        sfxSource.clip = unlockClip;
-        sfxSource.Play();
+        // sfxSource.clip = unlockClip;
+        sfxSource.PlayOneShot(unlockClip);
     }
     public void PlayTeleport() {
         sfxSource.clip = teleportClip;

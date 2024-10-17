@@ -25,10 +25,12 @@ public class door_controller : MonoBehaviour
     // Update is called once per frame
     public void OpenDoor() {
         Debug.Log("Opening door");
+        interactable interact = GetComponentInChildren<interactable>();
         if (doorKey != null) {
             var playerInventory = FindAnyObjectByType<Inventory>();
             if (playerInventory != null && playerInventory.items.ContainsKey(doorKey)) {
                 Debug.Log("Player has key");
+                interact.interactMessage = "Door opened";
                 playerInventory.UseItem(doorKey);
                 isOpen = !isOpen;
                 rend.sprite = isOpen ? openSprite : closedSprite;
@@ -37,11 +39,13 @@ public class door_controller : MonoBehaviour
                 // rend.sortingOrder = isOpen ? 0 : 1;
             } else {
                 Debug.Log("Player does not have key");
+                interact.interactMessage = "Missing key";
             }
         } else {
             Debug.Log("Door does not require key");
-            isOpen = !isOpen;
-            rend.sprite = isOpen ? openSprite : closedSprite;
+            isOpen = true;
+            rend.sprite = openSprite;
+            interact.interactMessage = "Enter - [W]";
             GameObject.FindObjectOfType<AudioManager>().PlayUnlock();
         }
     }

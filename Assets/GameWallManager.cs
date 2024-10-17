@@ -104,7 +104,7 @@ public class GameWallManager : MonoBehaviour
             MageShooter.Shoot(GetComputerMove() - 1);
         }
 
-        scoreText.text = "Score: " + total;
+        scoreText.text = "Score:\n" + total;
     }
 
     private int GetComputerMove() {
@@ -130,18 +130,19 @@ public class GameWallManager : MonoBehaviour
 
     private void MoveFloor(){
         if (!playerTurn){
+            print("Player wins");
             floorBricks[0].Move(true);
             floorBricks[1].Move(true);
             floorBricks[2].Move(true);
-            // lose the game and restart the level
-            string currentSceneName = SceneManager.GetActiveScene().name;
-            SceneManager.LoadScene(currentSceneName);
         }
         else {
+            print("Player loses");
             floorBricks[3].Move(true);
             floorBricks[4].Move(true);
             floorBricks[5].Move(true);
-
+            // lose the game and restart the level
+            string currentSceneName = SceneManager.GetActiveScene().name;
+            SceneManager.LoadScene(currentSceneName);
         }
     }
 }

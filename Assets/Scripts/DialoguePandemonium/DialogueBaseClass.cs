@@ -20,7 +20,7 @@ namespace DialoguePandemoniumSystem {
                 // }
                 textHolder.text += c;
                 print("writing text");
-                if(soundEffect != null && SoundManagerPandemonium.instance != null) {
+                if (soundEffect != null && SoundManagerPandemonium.instance != null && textHolder.text.Length % 10 < 4) {
                     SoundManagerPandemonium.instance.PlaySound(soundEffect);
                 }
                 print("played sound");

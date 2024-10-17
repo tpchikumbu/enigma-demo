@@ -105,7 +105,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileSpeed: -2
-  damage: 21
+  damage: 25
   effect: {fileID: 0}
 --- !u!50 &8848726217825965789
 Rigidbody2D:

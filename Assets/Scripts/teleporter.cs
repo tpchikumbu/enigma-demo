@@ -9,28 +9,43 @@ public class teleporter : MonoBehaviour
     [SerializeField] private Transform destination3;
     readonly string[] teleporterPuzzleNames = {"Main", "A1", "A2", "B1", "B2", "C1", "C2", "D1", "D2"};
 
+    [SerializeField] private Sprite defaultSprite;
     private int index = 1;
+
+    // void Update(){
+    //     GetDestination();
+    // }
 
     public Transform GetDestination()
     {
+        Transform dest = destination1;
         string teleporterName = gameObject.name;
         if (Array.Exists(teleporterPuzzleNames, element => element == teleporterName)){
             GameObject torchManager = GameObject.Find("TorchManager");
             if (torchManager != null)
             { 
-                Transform dest = TMGetDestination(torchManager);
+                dest = TMGetDestination(torchManager);
+                // GetComponent<SpriteRenderer>().sprite = dest.GetComponent<SpriteRenderer>().sprite;
                 return dest;
             }
         }
 
         
         GameObject secretSwitchObject = GameObject.Find("SecretSwitch");        
-        if (secretSwitchObject != null)
-        {
-            return SSGetDestination(secretSwitchObject);
+        if (secretSwitchObject != null){
+            dest = SSGetDestination(secretSwitchObject);
         }
 
-        return destination1;
+        if (dest == null) {
+            GetComponent<SpriteRenderer>().sprite = defaultSprite;
+            GetComponent<SpriteRenderer>().color = Color.white;
+            // dest = this.transform;
+        } else {
+            GetComponent<SpriteRenderer>().sprite = dest.GetComponent<SpriteRenderer>().sprite;
+            GetComponent<SpriteRenderer>().color = dest.GetComponent<SpriteRenderer>().color;
+        }
+
+        return dest;
     }
 
     private Transform SSGetDestination(GameObject secretSwitchObject){

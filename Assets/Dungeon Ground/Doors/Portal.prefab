@@ -152,6 +152,7 @@ MonoBehaviour:
   destination1: {fileID: 0}
   destination2: {fileID: 0}
   destination3: {fileID: 0}
+  defaultSprite: {fileID: 21300000, guid: 33ca86dc51cb2984dacbc1c4612394a5, type: 3}
 --- !u!95 &3996754465954250359
 Animator:
   serializedVersion: 7

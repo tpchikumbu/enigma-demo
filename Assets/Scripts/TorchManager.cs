@@ -16,10 +16,25 @@ public class TorchManager : MonoBehaviour
         torchObject = GameObject.Find("Torch3");
         torches[2] = torchObject.GetComponent<Torch>();
     }
+
+    void Update(){
+        int new_state = torches[0].switchIndex + torches[1].switchIndex * 2 + torches[2].switchIndex * 4;
+        if (state != new_state){
+            state = new_state;
+            UpdateSound();
+        }
+    }
+
+    void UpdateSound(){
+        for (int i = 0; i < state; i++) {
+            GameObject.FindObjectOfType<AudioManager>().PlayUnlock();
+        }
+    }
+
     void OnTriggerEnter2D(Collider2D other){
         // If the player enters the trigger area, the state is updated
         if (other.gameObject.CompareTag("Player")){
-            state = torches[0].switchIndex + torches[1].switchIndex * 2 + torches[2].switchIndex * 4;
+            
         }
     }
           
